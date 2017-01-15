@@ -1,4 +1,4 @@
-package nworder
+package nwbyteorder
 
 import (
 	"bytes"
